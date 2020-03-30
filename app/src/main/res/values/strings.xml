@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="LabelApp">Form Pendaftaran</string>
+    <string name="Nama">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="No_tlp">No.Telepon</string>
+    <string name="Daftar">Daftar</string>
+    <string name="InsertNama">Masukan Nama</string>
+    <string name="InsertAlamat">Masukan Alamat</string>
+    <string name="InsertTelepon">Masukan Angka</string>
+    <string name="menu1">Menu 1</string>
+    <string name="menu2">Menu 2</string>
+    <string name="menu3">Menu 3</string>
+    <string name="tampilan1">Tampilan hasil menu 2</string>
+    <string name="tampilan2">Tampilan hasil menu 3</string>
+</resources>
